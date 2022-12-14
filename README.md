@@ -1,1 +1,1 @@
-# Splash Page
+## Splash Page
