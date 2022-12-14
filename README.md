@@ -1,1 +1,1 @@
-# spash-page
+# Splash Page
